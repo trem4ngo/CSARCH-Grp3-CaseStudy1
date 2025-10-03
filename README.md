@@ -97,7 +97,7 @@ Throughout this project, we gained valuable insights into the realities of build
 
 ---
 ## 7. Video pitch
-- Your video link here  
+- [https://youtu.be/_bvCcNX_8dQ](https://youtu.be/_bvCcNX_8dQ)
 
 ## 8. References
 - Vendor links:
